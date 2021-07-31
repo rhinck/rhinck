@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Robert, I'm co-founder and CTO of [Lovage Labs](https://getlovage.com). We're working to bring the power of conversational AI to small businesses.
+I'm Robert, I'm co-founder and CTO of [Lovage Labs](https://getlovage.com). We're bringing the power of conversational AI to small business and enteprise customers.
 
 ### 📫 How to reach me:
 
