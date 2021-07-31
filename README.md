@@ -1,10 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
-I'm Robert, I'm co-founder and CTO of [Lovage Labs](https://getlovage.com). We're bringing the power of conversational AI to small business and enteprise customers.
+I'm Robert, co-founder and CTO of [Lovage Labs](https://getlovage.com). We're bringing the power of conversational AI to small business and enteprise customers.
 
-### 📫 How to reach me:
+### How to reach me 📫
 
-* [robert@getlovage.com](mailto:rober@getlovage.com)
+[robert@getlovage.com](mailto:rober@getlovage.com)
+
+### Some of my past creations 🔮
+[Refill My Soul (Meditation App)](https://apps.apple.com/us/app/refill-my-soul/id1497433293)
+
 
 <!--
 **rhinck/rhinck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
