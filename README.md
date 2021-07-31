@@ -4,7 +4,7 @@ I'm Robert, I'm co-founder and CTO of [Lovage Labs](https://getlovage.com). We'r
 
 ### 📫 How to reach me:
 
-[robert@getlovage.com](mailto:rober@getlovage.com)
+* [robert@getlovage.com](mailto:rober@getlovage.com)
 
 <!--
 **rhinck/rhinck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
