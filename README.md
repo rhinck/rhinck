@@ -6,7 +6,7 @@ I'm Robert, co-founder and CTO of [Lovage Labs](https://getlovage.com). We're br
 
 [robert@getlovage.com](mailto:rober@getlovage.com)
 
-### Some of my past creations 🔮
+### Some of my creations 🔮
 [Refill My Soul (Meditation App)](https://apps.apple.com/us/app/refill-my-soul/id1497433293) \
 [Taiwan English Class Homepage](https://taiwaneng.com)
 
