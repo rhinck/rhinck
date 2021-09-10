@@ -8,7 +8,7 @@ I'm Robert, co-founder and CTO of [Lovage Labs](https://getlovage.com). We're br
 
 ### Some of my creations 🔮
 - [Refill My Soul (Meditation app)](https://apps.apple.com/us/app/refill-my-soul/id1497433293)
-- [HEAL (Platform for survivors of sexual abuse to recover)](https://www.sacredinnocenceinternational.org/about-heal.html)
+- [HEAL (Platform for survivors of sexual abuse to assist with the healing process)](https://www.sacredinnocenceinternational.org/about-heal.html)
 - [Taiwan English Class Homepage](https://taiwaneng.com)
 
 
